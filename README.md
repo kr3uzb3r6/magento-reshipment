@@ -1,6 +1,6 @@
 # Magento 2: Reshipment
 
-This module extends Magento's shipping behavior. Any number of shipments can be 
+This module extends Magento's shipping behavior. Any number of shipments can be
 generated. The amount of articles to be sent is freely selectable.
 
 ## ✓ Install via composer (recommend)
@@ -15,7 +15,7 @@ php bin/magento setup:static-content:deploy
 ## Enable Feature
 
 To use this Feature just enable the reshipment function under **Store &rarr; Settings &rarr; 
-Configuration &rarr; Shipping Settings**
+Configuration &rarr; Sales &rarr; Shipping Settings**
 
 ![Imgur](https://i.imgur.com/Bwy5zQX.png)
 
