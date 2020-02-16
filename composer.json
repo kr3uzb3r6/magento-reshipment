@@ -1,0 +1,7 @@
+{
+    "name": "kr3uzb3r6/reshipment",
+    "type": "magento2-module",
+    "require": {
+        "magento/community-edition": "^2.3"
+    }
+}
