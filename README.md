@@ -7,7 +7,7 @@ generated. The amount of articles to be sent is freely selectable.
 Run the following command in Magento 2 root folder:
 
 ```
-composer require kr3uzb3r6/magento-reshipment
+composer require kr3uzb3r6/reshipment
 php bin/magento setup:upgrade
 php bin/magento setup:static-content:deploy
 ```

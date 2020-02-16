@@ -2,6 +2,10 @@
     "name": "kr3uzb3r6/reshipment",
     "description": "This module extends Magento's shipping behavior.",
     "type": "magento2-module",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "keywords": [
         "php",
         "magento",
